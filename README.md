@@ -13,7 +13,7 @@ This is my **Hello World Demo** software.
 I used the `print` command
 
 ```python
-print("Hello Rexburg")
+print("Hello World")
 ```
 
 [Python Home Page](python.org)
